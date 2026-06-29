@@ -1,24 +1,24 @@
 {
-    "id": 57436521,
+    "id": IDK,
     "name": "Black Blizzard",
-    "author": "Different Publisher",
+    "author": "Karml",
     "creators": ["Solo_Creator"],
-    "verifier": "Zyricgmd",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
+    "verifier": "Bongo",
+    "verification": "https://www.youtube.com/watch?v=qELDdjL1kAs",
+    "percentToQualify": "75",
     "password": "46290",
     "records": [
         {
-            "user": "Blzzrdd",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "divinity",
+            "link": "https://www.youtube.com/watch?v=qELDdjL1kAs",
             "percent": 100,
-            "hz": 360
+            "hz": ???
         },
         {
-            "user": "Divinity",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "opal",
+            "link": "https://www.youtube.com/watch?v=qELDdjL1kAs",
             "percent": 100,
-            "hz": 120
+            "hz": ???
         }
     ]
 }
